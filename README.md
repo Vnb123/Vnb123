@@ -29,6 +29,6 @@
 
 ## 📊 GitHub Stats
 
-![Vnb123's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vnb123&show_icons=true&theme=radical)
+![Vnb123's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vnb123&show_icons=true&theme=soft)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vnb123&layout=compact&theme=tokyonight)
