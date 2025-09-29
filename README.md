@@ -1,4 +1,9 @@
-# Hi there 👋, I'm Vana
+# Hey there! ✨ I'm Vana
+
+🌟 Fullstack & Mobile Developer | React, React Native, Node.js, PostgreSQL, TypeScript  
+I love turning ideas into **apps that are both functional and fun**.  
+From web to mobile, I create projects that **look polished, feel intuitive, and showcase real-world skills**.  
+Always exploring new tech and making things that **shine in both code and design**.
 
 💻 **Junior Fullstack Developer** | React, Node.js, PostgreSQL  
 🌱 Currently learning GraphQL & TypeScript  
@@ -31,4 +36,4 @@
 
 ![Vnb123's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vnb123&show_icons=true&theme=soft)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vnb123&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vnb123&layout=compact&theme=soft)
