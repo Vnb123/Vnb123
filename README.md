@@ -1,11 +1,10 @@
 # Hey there! ✨ I'm Vana
 
-🌟 Fullstack & Mobile Developer | React, React Native, Node.js, PostgreSQL, TypeScript  
+🌟 **Fullstack & Mobile Developer** | React, React Native, Node.js, PostgreSQL, TypeScript  
 I love turning ideas into **apps that are both functional and fun**.  
 From web to mobile, I create projects that **look polished, feel intuitive, and showcase real-world skills**.  
 Always exploring new tech and making things that **shine in both code and design**.
 
-💻 **Junior Fullstack Developer** | React, Node.js, PostgreSQL  
 🌱 Currently learning GraphQL & TypeScript  
 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/vana-bigava-153270197/)
 🎓 Northcoders Bootcamp graduate
