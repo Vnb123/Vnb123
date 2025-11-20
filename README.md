@@ -13,8 +13,8 @@ Always exploring new tech and making things that **shine in both code and design
 
 ## 🛠️ Tech Stack
 
-- **Frontend Web:** [React](https://reactjs.org/), [Vite](https://vitejs.dev/), [React Router](https://reactrouter.com/), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), [TypeScript](https://www.typescriptlang.org/)
-- **Frontend Mobile:** [React Native](https://reactnative.dev/), [Expo](https://expo.dev/), [UI Kitten](https://akveo.github.io/react-native-ui-kitten/), [expo-av](https://docs.expo.dev/versions/latest/sdk/av/), [TypeScript](https://www.typescriptlang.org/)
+- **Frontend Web:** [React](https://reactjs.org/), [Vite](https://vitejs.dev/), [React Router](https://reactrouter.com/), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [TypeScript](https://www.typescriptlang.org/)
+- **Frontend Mobile:** [React Native](https://reactnative.dev/), [Expo](https://expo.dev/), [UI Kitten](https://akveo.github.io/react-native-ui-kitten/), [expo-av](https://docs.expo.dev/versions/latest/sdk/av/), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [TypeScript](https://www.typescriptlang.org/)
 - **Backend:** [Node.js](https://nodejs.org/), [Express](https://expressjs.com/), [Supabase](https://supabase.com/), [PostgreSQL](https://www.postgresql.org/)
 - **Testing:** [Jest](https://jestjs.io/), [Supertest](https://www.npmjs.com/package/supertest)
 - **Deployment:** [Netlify](https://www.netlify.com/), [Render](https://render.com/)
