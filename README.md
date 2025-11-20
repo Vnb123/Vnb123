@@ -33,6 +33,6 @@ Always exploring new tech and making things that **shine in both code and design
 
 ## 📊 GitHub Stats
 
-![Vnb123's GitHub stats](https://vnb-github-readme-stats.vercel.app/api?username=Vnb123&show_icons=true&theme=soft)
+![Vnb123's GitHub stats](https://vnb-github-readme-stats.vercel.app/api?username=Vnb123&show_icons=true&theme=vue)
 
-![Top Languages](https://vnb-github-readme-stats.vercel.app/api/top-langs/?username=Vnb123&layout=compact&theme=soft)
+![Top Languages](https://vnb-github-readme-stats.vercel.app/api/top-langs/?username=Vnb123&layout=compact&theme=vue)
